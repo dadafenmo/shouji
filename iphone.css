@@ -1,0 +1,183 @@
+.box1{
+width: 300px;
+height: 620px;
+background: #ffffff;
+border-radius: 36px;
+float: left;
+margin-left: 50px;
+
+}
+.big{
+
+width: 280px;
+height: 608px;
+background: #e3ceb9;
+border-radius: 36px;
+margin-left: 10px;
+margin-top: 0px;
+overflow: hidden;
+
+
+}
+.top{
+width: 264px;
+height: 78px;
+border-top-left-radius: 36px;
+border-top-right-radius: 36px;
+background: #ffffff;
+margin-top: 0px;
+
+margin: 0 auto;
+
+}
+.shangyuan{
+width: 6px;
+height: 6px;
+border-radius: 50%;
+background: #000000;
+margin:  0 auto;
+margin-top: 17px;
+
+}
+.yuan1{
+width: 10px;
+height: 10px;
+border-radius: 50%;
+background: #000000;
+margin-left: 98px;
+margin-top: 10px;
+float: left;
+}
+.tingtong{
+width: 51px;
+height: 6px;
+background: #000000;
+margin-left: 17px;
+float: left;
+margin-top: 12px;
+border-radius: 3px;
+
+
+
+}
+.ping{
+width: 264px;
+height: 463px;
+background: #ffffff;
+/* border: 1px solid #000000; */
+margin: 0 auto;
+
+}
+.bottom{
+width: 264px;
+height: 58px;
+background: #ffffff;
+border-bottom-left-radius: 36px;
+border-bottom-right-radius: 36px;
+margin-top: 0px;
+overflow: hidden;
+margin: 0 auto;
+}
+
+
+.xiaoyuan{
+width: 37px;
+height: 37px;
+border-radius: 50%;
+border: 5px solid #e3ceb9;
+margin:  0 auto;
+margin-top: 6px;
+background: #ffffff;
+} 
+
+.box2{
+width: 300px;
+height: 620px;
+background: #ebdbc1;
+border-radius: 36px;
+float: left;
+margin-left: 50px;
+}
+
+.top2{
+width: 275px;
+height: 30px;
+background: #e3ceb9;
+border: 10px solid #ffffff;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+margin: 0 auto;
+
+}
+.she{
+width: 30px;
+height: 30px;
+background: #000000;
+margin-left: 40px;
+float: left;
+}
+.yuandian{
+
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	background: #000000;
+    float: left;
+   margin-left: 10px;
+   margin-top: 12px;
+
+}
+.gan{
+width: 16px;
+height: 16px;
+background: #000000;
+margin-left: 10px;
+margin-top: 6px;
+float: left;
+
+
+
+}
+.biaozhi{
+	width: 275px;
+	height: 517px;
+	background: #000000;
+	margin: 0 auto;
+}
+.bottom2{
+
+width: 275px;
+height: 30px;
+background: #e3ceb9;
+border: 10px solid #ffffff;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+margin: 0 auto;
+margin-top: 0px;
+
+}
+
+
+
+
+/* /* .beimian{
+width: 300px;
+height: 620px;
+background: #ffffff;
+
+}
+.top{
+width: 275px;
+height: 30px;
+background: red;
+border: 5px solid #000000;
+border-top-left-radius: 36px;
+border-top-right-radius: 36px;
+
+}
+.zhaoxiang{
+width: 30px;
+height: 30px;
+background: yellow;
+
+} */
